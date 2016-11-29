@@ -12,8 +12,8 @@ repositories {
 }
 
 dependencies {
-    compile("org.springframework.boot:spring-boot-starter-web:1.4.2.RELEASE")
-    compile 'org.springframework.data:spring-data-jpa:1.10.5.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-web:1.4.2.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-data-jpa:1.4.2.RELEASE'
     compile group: 'org.projectlombok', name: 'lombok', version: '1.16.10'
     compile group: 'ch.qos.logback', name: 'logback-classic', version: '1.1.7'
     compile 'org.postgresql:postgresql:9.4.1212'
