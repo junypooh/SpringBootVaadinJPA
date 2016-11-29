@@ -1,4 +1,4 @@
-package com.spring.boot;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * <pre>
- * com.spring.boot
+ * com.example.boot
  *      ApplicationController
  *
  * Spring Boot Execute Controller
