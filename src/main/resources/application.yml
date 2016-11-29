@@ -2,10 +2,6 @@ spring:
   profiles:
     active: local
 
-  view:
-    prefix: /WEB-INF/jsp/
-    suffix: .jsp
-
   datasource:
     url: jdbc:postgresql://localhost:4432/testDb
     driverClassName: org.postgresql.Driver
