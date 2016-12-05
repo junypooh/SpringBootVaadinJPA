@@ -5,3 +5,7 @@
 .mainui #sub-sub-menu {
 	padding-left: 60px;
 }
+
+table td {
+	text-align: center;
+}
